@@ -35,11 +35,10 @@ The built-in Live Preview pane currently supports the following extensions:
 - `.md` (Markdown)
 - `.py` (Python)
 
-## Other Supported Languages
-
 ## Testimonials
-> I tried this, and immediately busted everywhere. Now I'm a femboy.
-> - x8r, Owner of Cherri
+> I tried this, and immediately busted everywhere. Now I'm a femboy. (x8r)
+
+## Other Supported Languages
 
 The IDE recognizes and provides file icons (and syntax highlighting where available) for many other formats, including:
 - **Web & Configuration:** `.ts`, `.jsx`, `.tsx`, `.json`, `.yml`, `.yaml`, `.toml`
