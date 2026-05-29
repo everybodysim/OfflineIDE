@@ -35,6 +35,16 @@ The built-in Live Preview pane currently supports the following extensions:
 - `.md` (Markdown)
 - `.py` (Python)
 
+## Other Supported Languages
+
+The IDE recognizes and provides file icons (and syntax highlighting where available) for many other formats, including:
+- **Web & Configuration:** `.ts`, `.jsx`, `.tsx`, `.json`, `.yml`, `.yaml`, `.toml`
+- **Styling:** `.sass`, `.scss`
+- **Systems & Application:** `.c`, `.h`, `.cpp`, `.cs`, `.rs`, `.swift`, `.java`, `.kt`, `.scala`, `.go`
+- **Scripting & Data:** `.rb`, `.pl`, `.lua`, `.jl`, `.r`, `.php`, `.groovy`
+- **Shell & DevOps:** `.sh`, `.bash`, `.zsh`, `.ps1`, `dockerfile`
+- **Database & Academic:** `.sql`, `.hs`, `.tex`, `.latex`
+
 ## Technologies Used
 
 - **HTML5/CSS3/JavaScript (ES6+)** for the core logic and interface.
